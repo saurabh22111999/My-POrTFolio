@@ -1,0 +1,22 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/About": "pages/About.js",
+  "/ArchiveCard": "pages/ArchiveCard.js",
+  "/Archive": "pages/Archive.js",
+  "/Contact": "pages/Contact.js",
+  "/_error": "pages/_error.js",
+  "/Banner": "pages/Banner.js",
+  "/Dev": "pages/Dev.js",
+  "/Experience": "pages/Experience.js",
+  "/Feynn": "pages/Feynn.js",
+  "/Footer": "pages/Footer.js",
+  "/HighRadius": "pages/HighRadius.js",
+  "/LeftSide": "pages/LeftSide.js",
+  "/Navbar": "pages/Navbar.js",
+  "/RightSide": "pages/RightSide.js",
+  "/Projects": "pages/Projects.js",
+  "/SectionTitle": "pages/SectionTitle.js",
+  "/api/hello": "pages/api/hello.js",
+  "/": "pages/index.js"
+}
