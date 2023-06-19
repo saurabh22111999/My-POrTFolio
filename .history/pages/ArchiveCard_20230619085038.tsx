@@ -29,8 +29,8 @@ const ArchiveCard = ({title,des,listItem,link}:props) => {
       </div>
       <ul className='text-xs mdl:text-sm text-textDark flex items-center gap-2
        justify-between flex-wrap'>
-        {  
-          listItem?.map((item,i)=>(
+        { listItem? 
+          listItem.map((item,i)=>(
             <li key={i}>{item}</li>
           ))
         }
